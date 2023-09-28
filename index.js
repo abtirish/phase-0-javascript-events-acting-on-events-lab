@@ -1,4 +1,4 @@
-// Your code here
+// Move Dodger
 const dodger = document.getElementById("dodger");
 
 function moveDodgerLeft() {
